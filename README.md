@@ -7,11 +7,11 @@
 ## First Time Installation
 - Clone the Repository.
 - Make sure you have installed XAMP on your computer.
-- Copy this folder(Sparks-Foundation) to XAAMP installation Directory and then inside htdocs folder.
+- Copy this folder(BankingSystem) to XAAMP installation Directory and then inside htdocs folder.
 - Open Xamp Control Panel. Click on Start button near Apache and MySQL.
 - Open browser type the following into search bar.
 ```
-http://localhost/Sparks-Foundation/firsttime.php
+http://localhost/BankingSystem/firsttime.php
 ```
 - If everything works fine you would see this on your browser.
 ```
@@ -26,7 +26,7 @@ Transaction Table Created Successfully.
 - Make Sure XAMP is active with Apache and MySQL Server Enabled.
 - Open Browser Enter the following URL:
 ```
-http://localhost/Sparks-Foundation/
+http://localhost/BankingSystem/
 
 - You will land to Homepage of Money Bank Website.
 - Click On `View all Customer` from Navigation OR `Get Started` button for viewing detail of all Customers.
